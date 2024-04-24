@@ -3,7 +3,6 @@
 ## Name: Sunil Kumar P.B
 ## Roll.No: 212223040213
 ## Dept: AI&DS
-
 ## AIM
 To develop a website to display details about the places around my house.
 
