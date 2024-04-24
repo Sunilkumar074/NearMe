@@ -218,7 +218,7 @@ VR Mall.html
 ```
 
 ## OUTPUT
-![alt text](Map.png>)
+![alt text](Map.png)
 ![alt text](Anna.png)
 
 ![alt text](Saveetha.png)
